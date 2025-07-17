@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/bradrisse-kanban-mcp-badge.png)](https://mseep.ai/app/bradrisse-kanban-mcp)
+
 # 🔄 Kanban MCP
 
 Welcome to the Kanban MCP project! 🎉 This project integrates Planka kanban boards with Cursor's Machine Control Protocol (MCP) to enable AI assistants like Claude to manage your kanban boards.
